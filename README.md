@@ -7,8 +7,8 @@ i’m currently studying **computer science @ penn state** and exploring how cod
 ### ✨ what i’m up to:
 
 - 🧠 learning about AI, web development, and systems programming
-- 🛠️ teaching a machine learning camp at kode with klossy 
-- 💬 developing tools at HackPSU
+- 🛠️ creating a restaurant matching app called nomble 
+- 💬 developing tools at hackpsu
 
 ---
 
