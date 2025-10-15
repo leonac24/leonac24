@@ -8,7 +8,7 @@ i’m currently studying **computer science @ penn state** and exploring how cod
 
 - 🧠 learning about AI, web development, and systems programming
 - 🛠️ teaching a machine learning camp at kode with klossy 
-- 💬 experimenting with making chrome extensions and other useful tools
+- 💬 developing tools at HackPSU
 
 ---
 
