@@ -12,11 +12,6 @@ i’m currently studying **computer science @ penn state** and exploring how cod
 
 ---
 
-### 💻 currently building:
-- 🌐 my personal website
-
----
-
 # 🔗 find me at:
 - leonachen24@gmail.com
 - https://www.linkedin.com/in/leona-chen/
