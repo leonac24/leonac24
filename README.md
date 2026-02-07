@@ -1,6 +1,6 @@
 ### 🍵 hey there, i’m leona!
 
-i’m currently studying **computer science @ penn state** and exploring how code can solve real-world problems — big or small! i am a **associate application developer @ ibm** and incoming **technology intern @ pnc**.
+i’m currently studying **computer science @ penn state** and exploring how code can solve real-world problems — big or small! i am a **application developer @ ibm** and incoming **swe intern @ pnc**.
 
 ---
 
