@@ -1,6 +1,6 @@
 ### 🍵 hey there, i’m leona!
 
-i’m currently studying **computer science @ penn state** and exploring how code can solve real-world problems — big or small! i am currently an **application developer co-op intern @ ibm**.
+i’m currently studying **computer science + mathematics @ penn state** and am passionate about exploring how code can solve real-world problems — big or small! i am currently an **application developer co-op intern @ ibm**.
 
 ---
 
@@ -8,6 +8,7 @@ i’m currently studying **computer science @ penn state** and exploring how cod
 
 - 🧠 learning about AI and full-stack development
 - 💬 developing tools at hackpsu
+- ✈️ traveling across the US to compete in hackathons
 - 👗 creating fashion tech side projects
 
 ---
