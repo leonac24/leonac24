@@ -17,3 +17,5 @@ i’m currently studying **computer science + mathematics @ penn state** and am 
 - leonachen24@gmail.com
 - https://www.linkedin.com/in/leona-chen/
 
+[![Leona's GitHub stats](https://github-readme-stats.vercel.app/api?username=leonac24)](https://github.com/leonac24/github-readme-stats)
+
