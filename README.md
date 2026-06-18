@@ -1,6 +1,6 @@
 ### 🍵 hey there, i’m leona!
 
-i’m currently studying **computer science + mathematics @ penn state** and am passionate about exploring how code can solve real-world problems — big or small! i am currently an **application developer co-op intern @ ibm**.
+i’m currently studying **computer science + mathematics @ penn state** and am passionate about exploring how code can solve real-world problems — big or small! i am currently a **software engineering intern @ gamechanger** and former **application developer co-op intern @ ibm**.
 
 ---
 
