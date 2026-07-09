@@ -1,6 +1,6 @@
 ### 🍵 hey there, i’m leona!
 
-i’m currently studying **computer science + mathematics @ penn state** and am passionate about exploring how code can solve real-world problems — big or small! i am currently a **software engineering intern @ gamechanger** and former **application developer co-op intern @ ibm**.
+i’m currently studying **computer science, mathematics, & data science @ penn state** and am passionate about exploring how code can solve real-world problems — big or small! i am currently a **software engineering intern @ gamechanger** and former **application developer co-op intern @ ibm**.
 
 ---
 
@@ -16,7 +16,3 @@ i’m currently studying **computer science + mathematics @ penn state** and am 
 # 🔗 find me at:
 - leonachen24@gmail.com
 - https://www.linkedin.com/in/leona-chen/
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=leonac24&theme=github)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=leonac24&theme=github)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=leonac24&theme=github)
